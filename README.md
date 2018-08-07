@@ -1,4 +1,4 @@
-# StevenSuh.us
+# StevenSuh.me
 
 Personal website that displays all my projects.
 [Link](https://stevensuh.us)
